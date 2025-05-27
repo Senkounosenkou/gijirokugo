@@ -1,0 +1,31 @@
+# OSごとの不要ファイル
+.DS_Store
+Thumbs.db
+
+# Goビルド生成物
+/bin/
+/build/
+/dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go modules
+vendor/
+
+# エディタ・IDE
+.vscode/
+.idea/
+
+# テストカバレッジ
+coverage.out
+
+# ログファイル
+*.log
+
+# その他
+*.swp
+*.swo
