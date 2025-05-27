@@ -1,1 +1,1 @@
-// Goプロジェクト用README 
+Go繝励Ο繧ｸ繧ｧ繧ｯ繝育畑README
